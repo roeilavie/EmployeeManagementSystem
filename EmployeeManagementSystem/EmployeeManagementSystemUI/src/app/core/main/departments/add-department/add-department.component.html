@@ -1,0 +1,17 @@
+<div class="container">
+    <h1 class="mt-3">Add department</h1>
+    <form #form="ngForm" (ngSubmit)="onFormSubmit()">
+        <div class="mt-3">
+            <div class="mt-3">
+                <label class="form-label" for="name">Name</label>
+                <input type="text" id="name" class="form-control" name="name" [(ngModel)]="department.name"
+                    #name="ngModel" required>
+                <div *ngIf="name.invalid && name.touched" class="alert alert-danger" role="alert">Name is required.</div>
+            </div>
+        </div>
+
+        <div class="mt-3">
+            <button type="submit" class="btn btn-primary" [disabled]="form.invalid">Save</button>
+        </div>
+    </form>
+</div>

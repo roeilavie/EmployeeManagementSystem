@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  ems-api:
+    build: ./EmployeeManagementSystem/EmployeeManagementSystemAPI
+    container_name: ems-api
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+
+  frontend:
+    build: ./EmployeeManagementSystem/EmployeeManagementSystemUI
+    container_name: ems-frontend
+    ports:
+      - "4200:80"
+    depends_on:
+      - ems-api

@@ -1,0 +1,117 @@
+<div class="container">
+  <h1 class="mt-3">Edit employee</h1>
+  <ng-container *ngIf="employee; else notFound">
+    <form #form="ngForm" (ngSubmit)="onFormSubmit()">
+      <div class="mt-3">
+
+        <div class="mt-3">
+          <label class="form-label" for="id">Id</label>
+          <input type="text" id="id" class="form-control" name="id" [(ngModel)]="employee.id" disabled>
+        </div>
+
+        <div class="mt-3">
+          <label class="form-label" for="firstName">First name</label>
+          <input type="text" id="firstName" class="form-control" name="firstName" [(ngModel)]="employee.firstName"
+            #firstName="ngModel" required>
+          <div *ngIf="firstName.invalid && firstName.touched" class="alert alert-danger" role="alert">First name
+            is
+            required.</div>
+        </div>
+      </div>
+
+      <div class="mt-3">
+        <div class="mt-3">
+          <label class="form-label" for="lastName">Last name</label>
+          <input type="text" id="lastName" class="form-control" name="lastName" [(ngModel)]="employee.lastName"
+            #lastName="ngModel" required>
+          <div *ngIf="lastName.invalid && lastName.touched" class="alert alert-danger" role="alert">Last name is
+            required.</div>
+        </div>
+      </div>
+
+      <div class="mt-3">
+        <label class="form-label" for="email">Email</label>
+        <input type="email" id="email" class="form-control" name="email" [(ngModel)]="employee.email" required email
+          #email="ngModel">
+
+        <!-- Required error -->
+        <div *ngIf="email.errors?.['required'] && email.touched" class="alert alert-danger" role="alert">
+          Email is required.
+        </div>
+
+        <!-- Invalid format error -->
+        <div *ngIf="email.errors?.['email'] && email.touched" class="alert alert-danger" role="alert">
+          Please enter a valid email address.
+        </div>
+      </div>
+
+      <div class="mt-3">
+        <label class="form-label" for="hireDate">Hire date</label>
+        <input type="date" id="hireDate" class="form-control" name="hireDate" [(ngModel)]="hireDateString" required
+          noFutureDate #hireDateModel="ngModel"> <!-- renamed -->
+
+        <!-- Required error -->
+        <div *ngIf="hireDateModel.errors?.['required'] && hireDateModel.touched" class="alert alert-danger"
+          role="alert">
+          Hire date is required.
+        </div>
+
+        <!-- Future date error -->
+        <div *ngIf="hireDateModel.errors?.['futureDate'] && hireDateModel.touched" class="alert alert-danger"
+          role="alert">
+          Hire date cannot be in the future.
+        </div>
+      </div>
+
+
+
+      <div class="mt-3">
+        <label class="form-label" for="salary">Salary</label>
+        <input type="number" id="salary" class="form-control" name="salary" [(ngModel)]="employee.salary" required
+          min="1" #salary="ngModel">
+
+        <!-- Required error -->
+        <div *ngIf="salary.errors?.['required'] && salary.touched" class="alert alert-danger" role="alert">
+          Salary is required.
+        </div>
+
+        <!-- Min value error -->
+        <div *ngIf="salary.errors?.['min'] && salary.touched" class="alert alert-danger" role="alert">
+          Salary must be greater than 0.
+        </div>
+      </div>
+
+      <div class="mt-3">
+        <div class="dropdown" [class.is-invalid]="!employee.departmentId && formSubmitted">
+          <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
+            aria-expanded="false" style="width: 180px;"> <!-- fixed button width -->
+            {{ selectedDepartment?.name || 'Select Department' }}
+          </button>
+          <ul class="dropdown-menu" style="max-height: 150px; overflow-y: auto; min-width: 180px;">
+            <li *ngFor="let department of departments">
+              <a class="dropdown-item" (click)="selectDepartment(department)">
+                {{ department.name }}
+              </a>
+            </li>
+          </ul>
+        </div>
+
+
+        <div *ngIf="!employee.departmentId && formSubmitted" class="alert alert-danger" role="alert">
+          Department is required.
+        </div>
+      </div>
+
+      <div class="mt-3 d-flex">
+        <button type="submit" class="btn btn-primary" [disabled]="form.invalid">Save</button>
+        <button type="button" class="btn btn-danger ms-3" (click)="confirmDelete()">Delete</button>
+      </div>
+    </form>
+  </ng-container>
+
+  <ng-template #notFound>
+    <div class="alert alert-warning" role="alert">
+      Employee not found!
+    </div>
+  </ng-template>
+</div>

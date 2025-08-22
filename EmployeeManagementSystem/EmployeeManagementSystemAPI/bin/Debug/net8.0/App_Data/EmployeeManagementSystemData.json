@@ -1,0 +1,130 @@
+{
+  "Departments": [
+    {
+      "Id": 1,
+      "Name": "HR"
+    },
+    {
+      "Id": 2,
+      "Name": "IT"
+    },
+    {
+      "Id": 3,
+      "Name": "Finance"
+    },
+    {
+      "Id": 4,
+      "Name": "Marketing"
+    }
+  ],
+  "Employees": [
+    {
+      "Id": 1,
+      "FirstName": "John",
+      "LastName": "Doe",
+      "Email": "john.doe@example.com",
+      "HireDate": "2025-07-25T00:00:00",
+      "Salary": 50000,
+      "DepartmentId": 1
+    },
+    {
+      "Id": 2,
+      "FirstName": "Jane",
+      "LastName": "Smith",
+      "Email": "jane.smith@example.com",
+      "HireDate": "2025-08-05T00:00:00",
+      "Salary": 60000,
+      "DepartmentId": 2
+    },
+    {
+      "Id": 3,
+      "FirstName": "Alice",
+      "LastName": "Johnson",
+      "Email": "alice.johnson@example.com",
+      "HireDate": "2025-06-26T00:00:00Z",
+      "Salary": 55000,
+      "DepartmentId": 3
+    },
+    {
+      "Id": 4,
+      "FirstName": "Bob",
+      "LastName": "Brown",
+      "Email": "bob.brown@example.com",
+      "HireDate": "2025-08-10T00:00:00",
+      "Salary": 65000,
+      "DepartmentId": 2
+    },
+    {
+      "Id": 5,
+      "FirstName": "Eve",
+      "LastName": "Davis",
+      "Email": "eve.davis@example.com",
+      "HireDate": "2025-07-01T00:00:00",
+      "Salary": 48000,
+      "DepartmentId": 1
+    },
+    {
+      "Id": 6,
+      "FirstName": "Charlie",
+      "LastName": "Miller",
+      "Email": "charlie.miller@example.com",
+      "HireDate": "2025-08-12T00:00:00",
+      "Salary": 70000,
+      "DepartmentId": 4
+    },
+    {
+      "Id": 7,
+      "FirstName": "Grace",
+      "LastName": "Wilson",
+      "Email": "grace.wilson@example.com",
+      "HireDate": "2025-06-20T00:00:00",
+      "Salary": 52000,
+      "DepartmentId": 3
+    },
+    {
+      "Id": 8,
+      "FirstName": "Hank",
+      "LastName": "Taylor",
+      "Email": "hank.taylor@example.com",
+      "HireDate": "2025-08-02T00:00:00",
+      "Salary": 58000,
+      "DepartmentId": 2
+    },
+    {
+      "Id": 9,
+      "FirstName": "Ivy",
+      "LastName": "Anderson",
+      "Email": "ivy.anderson@example.com",
+      "HireDate": "2025-07-15T00:00:00",
+      "Salary": 63000,
+      "DepartmentId": 4
+    },
+    {
+      "Id": 10,
+      "FirstName": "Jack",
+      "LastName": "Thomas",
+      "Email": "jack.thomas@example.com",
+      "HireDate": "2025-08-18T00:00:00",
+      "Salary": 47000,
+      "DepartmentId": 1
+    },
+    {
+      "Id": 11,
+      "FirstName": "Lily",
+      "LastName": "Moore",
+      "Email": "lily.moore@example.com",
+      "HireDate": "2025-07-28T00:00:00",
+      "Salary": 61000,
+      "DepartmentId": 3
+    },
+    {
+      "Id": 12,
+      "FirstName": "Mark",
+      "LastName": "Jackson",
+      "Email": "mark.jackson@example.com",
+      "HireDate": "2025-08-15T00:00:00",
+      "Salary": 54000,
+      "DepartmentId": 2
+    }
+  ]
+}

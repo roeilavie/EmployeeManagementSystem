@@ -1,0 +1,75 @@
+<div class="container mt-3">
+    <h1>Dashboard</h1>
+
+    <!-- Statistics and Search Section -->
+    <div class="row mb-4 align-items-start">
+        <!-- Total Employees -->
+        <div class="col-md-4">
+            <div class="card p-3 shadow-sm h-100">
+                <h5>Total employees</h5>
+                <h2>{{ totalEmployees }}</h2>
+            </div>
+        </div>
+
+        <!-- Search Box -->
+        <div class="col-md-4">
+            <div class="card p-3 shadow-sm h-100">
+                <h5>Search employees</h5>
+                <div class="d-flex gap-2">
+                    <input type="text" class="form-control" placeholder="Search by name or department"
+                        [(ngModel)]="searchQuery">
+                    <button class="btn btn-primary" (click)="onSearch()">Search</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Actions Section -->
+        <div class="col-md-4">
+            <div class="card p-3 shadow-sm">
+                <h5>Search by department</h5>
+                <select id="department" class="form-select" [(ngModel)]="selectedDepartmentId"
+                    (ngModelChange)="loadEmployeesByDepartment($event)">
+                    <option value="" disabled selected>-- Select Department --</option>
+                    <option *ngFor="let dep of departments" [value]="dep.id">{{ dep.name }}</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <!-- Employees Table -->
+    <div *ngIf="searchResults.length">
+        <div class="card p-3 shadow-sm mb-4">
+            <h5>Employees</h5>
+            <table class="table table-bordered mt-3 mb-0">
+                <thead class="table-light">
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Email</th>
+                        <th>Hire Date</th>
+                        <th>Salary</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let emp of searchResults">
+                        <td>{{ emp.firstName }}</td>
+                        <td>{{ emp.lastName }}</td>
+                        <td>{{ emp.email }}</td>
+                        <td>{{ emp.hireDate | date:'yyyy-MM-dd' }}</td>
+                        <td>{{ emp.salary | currency }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Recent Hires Section -->
+    <div class="card p-3 shadow-sm mb-4">
+        <h5>Recent hires</h5>
+        <ul class="list-unstyled mb-0">
+            <li *ngFor="let emp of recentHires">
+                {{ emp.firstName }} {{ emp.lastName }} ({{ emp.hireDate | date:'yyyy-MM-dd' }})
+            </li>
+        </ul>
+    </div>
+</div>
