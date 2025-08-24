@@ -43,6 +43,11 @@ namespace EmployeeManagementSystemAPI.Controllers
         [HttpPost]
         public async Task<ActionResult<Employee>> Create(Employee employee)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState); // returns validation errors to client
+            }
+
             // Validate department exists
             Department? department = await _departmentRepository.GetByIdAsync(employee.DepartmentId);
             if (department == null)
@@ -57,6 +62,11 @@ namespace EmployeeManagementSystemAPI.Controllers
         public async Task<IActionResult> Update(int id, Employee employee)
         {
             if (id != employee.Id) return BadRequest();
+
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState); // returns validation errors to client
+            }
 
             Employee? existingEmployee = await _employeeRepository.GetByIdAsync(id);
             if (existingEmployee == null) return NotFound();

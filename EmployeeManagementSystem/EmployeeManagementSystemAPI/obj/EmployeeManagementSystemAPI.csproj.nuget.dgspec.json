@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj": {}
+    "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj": {
+    "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj",
+        "projectUniqueName": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj",
         "projectName": "EmployeeManagementSystemAPI",
-        "projectPath": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj",
+        "projectPath": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj",
         "packagesPath": "C:\\Users\\roei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\obj\\",
+        "outputPath": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

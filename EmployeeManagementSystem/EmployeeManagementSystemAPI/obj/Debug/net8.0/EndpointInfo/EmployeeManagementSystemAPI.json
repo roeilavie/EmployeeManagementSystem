@@ -605,8 +605,7 @@
           "email",
           "firstName",
           "hireDate",
-          "lastName",
-          "salary"
+          "lastName"
         ],
         "type": "object",
         "properties": {
@@ -615,11 +614,13 @@
             "format": "int32"
           },
           "firstName": {
-            "minLength": 1,
+            "maxLength": 50,
+            "minLength": 0,
             "type": "string"
           },
           "lastName": {
-            "minLength": 1,
+            "maxLength": 50,
+            "minLength": 0,
             "type": "string"
           },
           "email": {
@@ -629,11 +630,12 @@
           },
           "hireDate": {
             "type": "string",
-            "format": "date-time"
+            "format": "date"
           },
           "salary": {
+            "minimum": 1,
             "type": "number",
-            "format": "float"
+            "format": "double"
           },
           "departmentId": {
             "type": "integer",

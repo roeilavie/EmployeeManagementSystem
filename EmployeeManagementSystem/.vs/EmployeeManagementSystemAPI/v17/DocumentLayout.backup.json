@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\desktop\\roei\\arbox assesment\\employeemanagementsystem\\employeemanagementsystemapi\\models\\jsondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\models\\jsondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\desktop\\roei\\arbox assesment\\employeemanagementsystem\\employeemanagementsystemapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\desktop\\roei\\arbox assesment\\employeemanagementsystem\\employeemanagementsystemapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\documents\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystemapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\desktop\\roei\\arbox assesment\\employeemanagementsystem\\employeemanagementsystemapi\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\desktop\\roei\\arbox assesment\\employeemanagementsystem\\employeemanagementsystemapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\documents\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystemapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\desktop\\roei\\arbox assesment\\employeemanagementsystem\\employeemanagementsystemapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\documents\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystemapi\\models\\jsondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\models\\jsondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\documents\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystemapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\documents\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystemapi\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\documents\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystemapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\desktop\\roei\\arbox assesment\\employeemanagementsystem\\employeemanagementsystemapi\\repositories\\jsondatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\documents\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystemapi\\repositories\\jsondatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\repositories\\jsondatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\desktop\\roei\\arbox assesment\\employeemanagementsystem\\employeemanagementsystemapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\documents\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystemapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\desktop\\roei\\arbox assesment\\employeemanagementsystem\\employeemanagementsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\documents\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\desktop\\roei\\arbox assesment\\employeemanagementsystem\\employeemanagementsystemapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\documents\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystemapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\desktop\\roei\\arbox assesment\\employeemanagementsystem\\employeemanagementsystemapi\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\documents\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystemapi\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\desktop\\roei\\arbox assesment\\employeemanagementsystem\\employeemanagementsystemapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\documents\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystemapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\desktop\\roei\\arbox assesment\\employeemanagementsystem\\employeemanagementsystemapi\\app_data\\employeemanagementsystemdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|c:\\users\\roei\\documents\\employeemanagementsystem\\employeemanagementsystem\\employeemanagementsystemapi\\app_data\\employeemanagementsystemdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{863871EC-D914-43BE-9731-81D04F287D82}|EmployeeManagementSystemAPI\\EmployeeManagementSystemAPI.csproj|solutionrelative:employeemanagementsystemapi\\app_data\\employeemanagementsystemdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,11 +70,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "JsonData.cs",
-              "DocumentMoniker": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Models\\JsonData.cs",
+              "DocumentMoniker": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Models\\JsonData.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystemAPI\\Models\\JsonData.cs",
-              "ToolTip": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Models\\JsonData.cs",
+              "ToolTip": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Models\\JsonData.cs",
               "RelativeToolTip": "EmployeeManagementSystemAPI\\Models\\JsonData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Models\\Department.cs",
+              "DocumentMoniker": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Models\\Department.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystemAPI\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Models\\Department.cs",
               "RelativeToolTip": "EmployeeManagementSystemAPI\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,9 +97,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "JsonDataRepository.cs",
-              "DocumentMoniker": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\JsonDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\JsonDataRepository.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystemAPI\\Repositories\\JsonDataRepository.cs",
-              "ToolTip": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\JsonDataRepository.cs",
+              "ToolTip": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\JsonDataRepository.cs",
               "RelativeToolTip": "EmployeeManagementSystemAPI\\Repositories\\JsonDataRepository.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Middleware\\ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Middleware\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystemAPI\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Middleware\\ExceptionMiddleware.cs",
               "RelativeToolTip": "EmployeeManagementSystemAPI\\Middleware\\ExceptionMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Program.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystemAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Program.cs",
               "RelativeToolTip": "EmployeeManagementSystemAPI\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "IDepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\IDepartmentRepository.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystemAPI\\Repositories\\IDepartmentRepository.cs",
-              "ToolTip": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\IDepartmentRepository.cs",
               "RelativeToolTip": "EmployeeManagementSystemAPI\\Repositories\\IDepartmentRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,11 +143,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystemAPI\\Repositories\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\EmployeeRepository.cs",
               "RelativeToolTip": "EmployeeManagementSystemAPI\\Repositories\\EmployeeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,9 +157,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Controllers\\DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystemAPI\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Controllers\\DepartmentsController.cs",
               "RelativeToolTip": "EmployeeManagementSystemAPI\\Controllers\\DepartmentsController.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAkwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -167,11 +167,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\DepartmentRepository.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystemAPI\\Repositories\\DepartmentRepository.cs",
-              "ToolTip": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Repositories\\DepartmentRepository.cs",
               "RelativeToolTip": "EmployeeManagementSystemAPI\\Repositories\\DepartmentRepository.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwDIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,9 +181,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "EmployeeManagementSystemData.json",
-              "DocumentMoniker": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\App_Data\\EmployeeManagementSystemData.json",
+              "DocumentMoniker": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\App_Data\\EmployeeManagementSystemData.json",
               "RelativeDocumentMoniker": "EmployeeManagementSystemAPI\\App_Data\\EmployeeManagementSystemData.json",
-              "ToolTip": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\App_Data\\EmployeeManagementSystemData.json",
+              "ToolTip": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\App_Data\\EmployeeManagementSystemData.json",
               "RelativeToolTip": "EmployeeManagementSystemAPI\\App_Data\\EmployeeManagementSystemData.json",
               "ViewState": "AgIAAHIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -191,35 +191,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Models\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystemAPI\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Models\\Employee.cs",
               "RelativeToolTip": "EmployeeManagementSystemAPI\\Models\\Employee.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T12:08:03.347Z"
+              "WhenOpened": "2025-08-21T12:08:03.347Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Controllers\\EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystemAPI\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Controllers\\EmployeesController.cs",
               "RelativeToolTip": "EmployeeManagementSystemAPI\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T12:03:45.783Z"
+              "WhenOpened": "2025-08-21T12:03:45.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystemAPI\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\roei\\Desktop\\Roei\\Arbox assesment\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\roei\\Documents\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystemAPI\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "EmployeeManagementSystemAPI\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
