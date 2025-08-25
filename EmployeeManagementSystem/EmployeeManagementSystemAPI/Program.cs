@@ -10,6 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddSingleton<IJsonDataRepository, JsonDataRepository>();
 builder.Services.AddSingleton<IEmployeeRepository, EmployeeRepository>();
 builder.Services.AddSingleton<IDepartmentRepository, DepartmentRepository>();
+builder.Services.AddSingleton<IDashboardRepository, DashboardRepository>();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
